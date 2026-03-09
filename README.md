@@ -10,31 +10,31 @@ The project demonstrates the complete Machine Learning workflow, including data 
 
 🧠 Key Concepts Used
 
-Data Cleaning
-
-Data Preprocessing
-
-Feature Selection
-
-Model Training
-
-Model Evaluation
-
-Prediction Generation
+- Data Cleaning
+    
+- Data Preprocessing
+    
+- Feature Selection
+    
+- Model Training
+    
+- Model Evaluation
+    
+- Prediction Generation
 
 🛠 Technologies Used
 
-Python
+-Python
 
-Pandas
+-Pandas
 
-NumPy
+-NumPy
 
-Matplotlib
+-Matplotlib
 
-Scikit-learn
+-Scikit-learn
 
-Google Colab
+-Google Colab
 
 📂 Project Files
 
