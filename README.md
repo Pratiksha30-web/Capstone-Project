@@ -24,17 +24,12 @@ The project demonstrates the complete Machine Learning workflow, including data 
 
 🛠 Technologies Used
 
--Python
-
--Pandas
-
--NumPy
-
--Matplotlib
-
--Scikit-learn
-
--Google Colab
+   - Python
+   - Pandas
+   - NumPy
+   - Matplotlib
+   - Scikit-learn
+   - Google Colab
 
 📂 Project Files
 
